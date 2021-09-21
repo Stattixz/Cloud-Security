@@ -1,6 +1,6 @@
 # Cloud-Security
 This repository outlines a project including an AZURE based cloud network
-[README.md](https://github.com/Stattixz/Cloud-Security/files/7200466/README.md)
+
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
