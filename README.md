@@ -11,11 +11,11 @@ These files have been tested and used to generate a live ELK deployment on Azure
 
 [Filebeat](https://github.com/Stattixz/Cloud-Security/blob/main/Ansible/filebeat-playbook.yml)
 
-../Ansible/metricbeat-playbook.yml
+[Metricbeat](https://github.com/Stattixz/Cloud-Security/blob/main/Ansible/metricbeat-playbook.yml)
 
-../Ansible/install-ELK.yml
+[ELK](https://github.com/Stattixz/Cloud-Security/blob/main/Ansible/install-ELK.yml)
 
-../Ansible/web_server_setup.yml
+[WebServer](https://github.com/Stattixz/Cloud-Security/blob/main/Ansible/web_server_setup.yml)
 
 
 ### Description of the Topology
