@@ -23,6 +23,7 @@ These files have been tested and used to generate a live ELK deployment on Azure
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.
 
 Load balancing ensures that the application will be highly available, in addition to restricting unauthorized access to the network.
+
 -What aspect of security do load balancers protect? What is the advantage of a jump box?
    
    One of the main purposes of the load balancer is to protect against Destributed Denial of Service (DDOS) attacks. In addition, having a jump box significantly increases the security of a network. This is because the jump box is the only way to make administrative chages to the connected servers. Admins must connect to the jump box before they can make any changes to the system.
