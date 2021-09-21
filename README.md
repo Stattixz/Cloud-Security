@@ -29,9 +29,13 @@ Load balancing ensures that the application will be highly available, in additio
    One of the main purposes of the load balancer is to protect against Destributed Denial of Service (DDOS) attacks. In addition, having a jump box significantly increases the security of a network. This is because the jump box is the only way to make administrative chages to the connected servers. Admins must connect to the jump box before they can make any changes to the system.
 
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the mettrics and system logs.
+
 -What does Filebeat watch for? 
+
 filebeat monitors the specified log files and locations and sends the events to logstash or elasticstash to be indexed.
+
 -What does Metricbeat record? 
+
 Metricbeat collects metrics from the operating system and services running on the server and sends the data to be indexed.
 
 The configuration details of each machine may be found below.
